@@ -114,16 +114,16 @@ Estou concluindo o 3 ano do ensino médio técnico em informática na **Fiap Sch
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg " 
+    src="https://icon.icepanel.io/Technology/svg/Figma.svg" 
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -131,8 +131,8 @@ Estou concluindo o 3 ano do ensino médio técnico em informática na **Fiap Sch
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" 
